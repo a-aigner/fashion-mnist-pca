@@ -1,9 +1,2 @@
-- Zeitmessung + Vergleiche (sklearn vs numpy version) 60k samples lieber nicht
-
-- was sind Ladungsvektoren und analysieren=´??? --PCA sonst nix
-    - gibt es features mit mehr aussagekraft?
-    - Biplot (was auch immer das ist)
 
 Notebook gut dokumentieren
-
-theoretische Grundlagen ins notebook
